@@ -6,7 +6,16 @@
     <description>Recent content on Affan Khan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1.Rmd</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>0. Introduction human_data &amp;lt;- read.csv(&amp;quot;~/Desktop/SDS Project/averageheight_csv.csv&amp;quot;) head(human_data) ## Country Average.Height.Male Average.Weight.Male Average.BMI.Male ## 1 Netherlands 1.83 87.4 26.1 ## 2 Latvia 1.81 88.8 27.1 ## 3 Denmark 1.81 86.2 26.3 ## 4 Estonia 1.81 88.5 27.0 ## 5 Bosnia 1.81 86.5 26.4 ## 6 Iceland 1.81 88.8 27.1 ## Average.Height.Female Average.Weight.Female Average.BMI.Female ## 1 1.69 72.3 25.3 ## 2 1.69 75.4 26.4 ## 3 1.68 69.4 24.6 ## 4 1.</description>
+    </item>
+    
     <item>
       <title>Affan&#39;s Python Code</title>
       <link>/post/2021/05/09/affan-s-python-code/</link>
@@ -25,15 +34,6 @@ my_string = &amp;quot;I&amp;#39;m a UT Austin Student and I&amp;#39;m from Sugar
       
       <guid>/project/project2/</guid>
       <description>0. Introduction # read all datasets fert_data &amp;lt;- read.csv(&amp;quot;~/Desktop/SDS Project/fert.csv&amp;quot;) head(fert_data) ## name slug fert_r ## 1 Niger niger 6.91 ## 2 Angola angola 5.90 ## 3 Congo, Democratic Republic of the congo-democratic-republic-of-the 5.70 ## 4 Mali mali 5.63 ## 5 Chad chad 5.57 ## 6 Benin benin 5.47 ## date_of_information ranking region ## 1 2021 est. 1 Africa ## 2 2021 est. 2 Africa ## 3 2021 est. 3 Africa ## 4 2021 est.</description>
-    </item>
-    
-    <item>
-      <title>Project 1</title>
-      <link>/project/project1/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/project/project1/</guid>
-      <description> Test Project 1  </description>
     </item>
     
     <item>
